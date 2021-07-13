@@ -1,0 +1,5 @@
+s = input()
+#print(s)
+index_A = s.find('A')
+index_Z = s.rfind('Z')
+print(index_Z-index_A+1)
