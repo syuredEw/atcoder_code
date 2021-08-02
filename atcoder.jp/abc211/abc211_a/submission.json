@@ -1,0 +1,12 @@
+{
+	"id": 24732439,
+	"epoch_second": 1627895755,
+	"problem_id": "abc211_a",
+	"contest_id": "abc211",
+	"user_id": "syurede",
+	"language": "Julia (1.4.0)",
+	"point": 100,
+	"length": 106,
+	"result": "AC",
+	"execution_time": 517
+}
