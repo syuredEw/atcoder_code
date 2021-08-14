@@ -1,0 +1,12 @@
+{
+	"id": 25007566,
+	"epoch_second": 1628918726,
+	"problem_id": "dfs_a",
+	"contest_id": "atc001",
+	"user_id": "syurede",
+	"language": "PyPy3 (7.3.0)",
+	"point": 100,
+	"length": 2166,
+	"result": "AC",
+	"execution_time": 349
+}
