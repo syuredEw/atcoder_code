@@ -1,0 +1,12 @@
+{
+	"id": 29212589,
+	"epoch_second": 1644556380,
+	"problem_id": "codefestival_2016_qualC_a",
+	"contest_id": "code-festival-2016-qualc",
+	"user_id": "syurede",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 100,
+	"length": 341,
+	"result": "AC",
+	"execution_time": 5
+}
